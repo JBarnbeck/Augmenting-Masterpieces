@@ -25,9 +25,13 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
   * Concept of unused spaces, unused time and usable passageways and objects
   * 
 *5. Reflect on the role of the embedded researcher within the university*
-  * 
+  *  Idea and written concept for an interdisciplinary, multi-medial lab for Embedded Researchers 
+  *  Develop further self-reflexive methodology and the implementation of design thinking
 
 *6. Create sustainable collaborations in which this project continues (search and integrate in funding opportunities with a longterm scope)*
+ * Contribution to funding applications by the UvA with a focus on setting up a physcial and digital environment for embedded research at the Uva 
+ * https://github.com/yeehaa123/erc/tree/master/h2020
+ * https://github.com/yeehaa123/erc/blob/master/CHAT/lab.md
 
 *7. make a Scientific Research Trailer*
 
