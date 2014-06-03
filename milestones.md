@@ -43,7 +43,8 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
  * Networking and stimulate partnerships with private stakeholders in Amsterdam and Berlin
  * https://github.com/yeehaa123/erc/tree/master/h2020
  * https://github.com/yeehaa123/erc/blob/master/CHAT/lab.md
- * http://lifely.nl/blog/coding-sessions-in-een-workshop-van-concept-naar-prototype
+ * Coding Sessions 
+   http://lifely.nl/blog/coding-sessions-in-een-workshop-van-concept-naar-prototype
  * March 17th - April 30th, and continously.
 
 *7. + 15. make a Scientific Research Trailer*
