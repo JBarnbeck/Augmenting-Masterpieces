@@ -12,12 +12,16 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
   * https://github.com/JBarnbeck/Augmenting-Masterpieces/
 
 
-*2. Expert meeting between university and museum*
+*2. Expert meetings between university and museum*
   * Medialab Rijksmuseum January 30th 2014 
   * receive and discuss actionable feedback from public and private parties involved
+     * programmer Filip Mertens http://nl.linkedin.com/in/mertensfilip
+     * programmer Peter Duindam Lifely.nl 
+     * Unc Inc expert meetings May 2nd, May 9th, June 12th 
+        https://www.uncinc.nl/nl/nieuws/onderzoek-bij-het-rijksmuseum     
+    
 
-
-*3. Empathize with the visitors and staff of the museum & define single user*
+*3. Empathize work with the visitors and staff of the museum & define single user*
   * User Camera Study
   * Observations visualised in sketches, maps, film sequences and photographs
   * User Interviews (differen visitor types, curators, security, museum guides)
@@ -36,26 +40,33 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
 
 *6. Create sustainable collaborations in which this project continues (search and integrate in funding opportunities with a longterm scope)*
  * Contribution to funding applications by the UvA with a focus on setting up a physcial and digital environment for embedded research at the Uva 
+ * Networking and stimulate partnerships with private stakeholders in Amsterdam and Berlin
  * https://github.com/yeehaa123/erc/tree/master/h2020
  * https://github.com/yeehaa123/erc/blob/master/CHAT/lab.md
+ * http://lifely.nl/blog/coding-sessions-in-een-workshop-van-concept-naar-prototype
+ * March 17th - April 30th, and continously.
 
-
-*7. make a Scientific Research Trailer*
-
+*7. + 15. make a Scientific Research Trailer*
+ * 
 
 *8. Ideate a (paper) prototype*
+ * June 9th - 13th 
 
-
-*9. Reflect on building prototype*
-
-
-*10. Reflect on testing the prototype*
-
+*9. Reflect on building prototype & test prototype*
+ * June 16th - 20th
+ 
+*10. Reflect on testing the prototype & iterate*
+ * July 7th - 11th
 
 *11. acquire technical knowledge to refine from paper prototype to technical prototype*
+ * team up with programmer(s) 
+ * July 14th - August 1st
+ 
+*12. Iterate  ideation, prototying, testing*
+ * August - Mid September
 
+*13. present the findings and prototype in appropriate manner to stakeholders of the project*
+ * October
 
-*12. present the findings and prototype in appropriate manner to stakeholders of the project*
-
-
-*13. publish findings of the project together with applicants*
+*14. publish findings of the project together with applicants*
+ * November
