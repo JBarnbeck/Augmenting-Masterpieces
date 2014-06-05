@@ -9,8 +9,8 @@
 + Website/project wiki
 
 ***Design document***
-+Internal feedback partner organisations and general knowledge transfer
-+Website/project wiki
++ Internal feedback partner organisations and general knowledge transfer
++ Website/project wiki
 
 ***Interface prototypes (beta)***
 + Museum visitors (results for partners)
