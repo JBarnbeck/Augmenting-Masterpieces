@@ -30,9 +30,10 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
 
 *4. Identify spaces for interfaces within the museum*
   * Concept of unused spaces, unused time and usable passageways and objects
-  * 
-  
-
+  * persona accompanied and un-accompanied visitors
+  * Design document, user scenarios, features
+  * Benchmark research, trends and inspiration
+ 
 *5. Reflect on the role of the embedded researcher within the university*
   *  Idea and written concept for an interdisciplinary, multi-medial lab for Embedded Researchers 
   *  Develop further self-reflexive methodology and the implementation of design thinking
@@ -49,6 +50,7 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
 
 *7. + 15. make a Scientific Research Trailer*
  * 
+
 
 *8. Ideate a (paper) prototype*
  * June 9th - 13th 
@@ -71,3 +73,7 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
 
 *14. publish findings of the project together with applicants*
  * November
+
+
+
+
