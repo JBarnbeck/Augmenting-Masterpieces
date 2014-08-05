@@ -48,25 +48,24 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
    http://lifely.nl/blog/coding-sessions-in-een-workshop-van-concept-naar-prototype
  * March 17th - April 30th, and continously.
 
-*7. + 15. make a Scientific Research Trailer*
- * 
-
+*7. Presentation of findings, user studies to museum*
+* September 10th 
 
 *8. Ideate a (paper) prototype*
- * June 9th - 13th 
+September - October
 
 *9. Reflect on building prototype & test prototype*
- * June 16th - 20th
+September - October
  
 *10. Reflect on testing the prototype & iterate*
- * July 7th - 11th
+September - October
 
 *11. acquire technical knowledge to refine from paper prototype to technical prototype*
  * team up with programmer(s) 
- * July 14th - August 1st
+ * August
  
-*12. Iterate  ideation, prototying, testing*
- * August - Mid September
+*12. Iterate ideation, prototying, testing*
+ * Mid September - end of october
 
 *13. present the findings and prototype in appropriate manner to stakeholders of the project*
  * October
@@ -74,6 +73,7 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
 *14. publish findings of the project together with applicants*
  * November
 
-
-
+*15. make a Scientific Research Trailer*
+* August
+* November/December
 
