@@ -11,8 +11,10 @@
  http://www.museumsetc.com/blogs/news/14976761-museums-and-visitor-photography-call-for-papers
 "... proposals for both chapters and case studies from museum and gallery professionals, academics, photographers, artists and other visual practitioners. Proposals from those with practical experience of evaluating and assessing outcomes in this field area are particularly welcome."
 
-- Journal for Artistic Research 
+- Journal for Artistic Research & Research Catalogue
   www.jar-online.net
+  www.researchcatalogue.net/
+
 
 - ARlab AR[t] magazine 
   www.arlab.nl
