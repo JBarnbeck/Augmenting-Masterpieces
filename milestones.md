@@ -17,8 +17,9 @@ Here is the list of Milestones that I am working towards. The bulletpoints descr
   * receive and discuss actionable feedback from public and private parties involved
      * programmer Filip Mertens http://nl.linkedin.com/in/mertensfilip
      * programmer Peter Duindam Lifely.nl 
-     * Unc Inc expert meetings May 2nd, May 9th, June 12th 
-        https://www.uncinc.nl/nl/nieuws/onderzoek-bij-het-rijksmuseum     
+     * Unc Inc expert meetings May 2nd, May 9th, June 12th, August 13th, October 9th
+        https://www.uncinc.nl/nl/nieuws/onderzoek-bij-het-rijksmuseum
+     * 
     
 
 *3. Empathize work with the visitors and staff of the museum & define single user*
@@ -62,18 +63,22 @@ September - October
 
 *11. acquire technical knowledge to refine from paper prototype to technical prototype*
  * team up with programmer(s) 
+    *  
  * August
  
 *12. Iterate ideation, prototying, testing*
  * Mid September - end of october
 
 *13. present the findings and prototype in appropriate manner to stakeholders of the project*
- * October
+ * Mid November at the Rijksmuseum 
 
 *14. publish findings of the project together with applicants*
  * November
+ * Calls 
+     * Conference Museums & the Web, Workshop, Chicago April 2015
+     * CfP Museums & Visitor photography, Museums etc. Smithsonian
+     * Conference MuseumNext, Workshop, Geneva April 2015
 
 *15. make a Scientific Research Trailer*
-* August
-* November/December
+* November
 
